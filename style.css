@@ -44,7 +44,7 @@ body{
 	animation: glowing 10s ease infinite;
 }
 
-/*@keyframes glowing{
+@keyframes glowing{
 	0%{
 		background-position: 0% 50%;
 	}
@@ -54,7 +54,7 @@ body{
 	100%{
 		background-position: 0% 50%;
 	}
-}*/
+}
 
 .time{
 	position: relative;
